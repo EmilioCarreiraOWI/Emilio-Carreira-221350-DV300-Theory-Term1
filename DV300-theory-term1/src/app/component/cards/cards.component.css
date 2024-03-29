@@ -1,0 +1,18 @@
+img {
+    width: 50%;
+    height: auto;
+    margin-top: -80px;
+}
+.card {
+    margin-top: 100px;
+    border-radius: 30px;
+    background: linear-gradient(to bottom, #090011, #180C60, #180C60, #180C60);
+    color: white;
+}
+
+.hr-line {
+    width: 50px;
+    border: 3px solid #F2994A;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
