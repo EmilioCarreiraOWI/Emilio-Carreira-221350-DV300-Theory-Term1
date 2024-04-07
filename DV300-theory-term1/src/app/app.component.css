@@ -1,0 +1,64 @@
+.subscribe-box {
+    background-color: #7920C2;
+    margin-top: -150px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    border-radius: 30px;
+}
+
+.spaceman{
+    margin-left: -400px;
+    margin-top: -50px;
+}
+p {
+    font-family: Inter;
+    font-size: 20px;
+}
+h1 {
+    font-family: Bebas Neue;
+    font-size: 56px;
+}
+.header-font {
+    font-family: Bebas Neue;
+    font-size: 96px;
+    letter-spacing: 6%;
+}
+h5{
+    font-family: Bebas Neue;
+    font-size: 24px;
+}
+h4 {
+    font-family: Bebas Neue;
+    font-size: 32px;
+}
+.btn-primary{
+    border-radius: 100px;
+    background-color: #7920C2;
+    width: 260px;
+    height: 55px;
+    color: white;
+    border: none;
+}
+.btn-secondary{
+    border-radius: 100px;
+    background-color: #F2994A;
+    width: 260px;
+    height: 55px;
+    color: white;
+    border: none;
+}
+.btn-primary:hover{
+background: linear-gradient(to bottom right, #7920C2, #6D1BB0);
+border: none;
+}
+.btn-secondary:hover {
+    background: linear-gradient(to bottom right, #F2994A, #CE7629); 
+}
+
+input{
+    background-color: #6D1BB0;
+    border: 2px solid white;
+    border-radius: 50px;
+    width: 311px;
+    height: 55px;
+}

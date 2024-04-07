@@ -1,0 +1,11 @@
+.btn-Ghost{
+    border-radius: 100px;
+    width: 160px;
+    height: 55px;
+    color: white;
+    border: 2px solid #F2994A;
+}
+.nav-background {
+    margin-bottom: -82px;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0));
+}
