@@ -1,6 +1,16 @@
 
-.footer{
+.Footer{
     background-color: #090011;
     height: 399px;
-    margin-top: -195px;
+    margin-top: -155px;
+    color: white;
+    font-family: inter;
+}
+
+.media-margin {
+    margin-top: 180px;
+}
+.logo-footer {
+    width: 80px;
+    height: auto;
 }
