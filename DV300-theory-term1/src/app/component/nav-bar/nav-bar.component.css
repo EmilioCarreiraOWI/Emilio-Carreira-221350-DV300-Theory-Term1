@@ -4,8 +4,27 @@
     height: 55px;
     color: white;
     border: 2px solid #F2994A;
+    background-color: #ce762900;
+}
+
+.btn-Ghost:hover{
+    background: linear-gradient(to bottom right, #F2994A, #CE7629);
 }
 .nav-background {
     margin-bottom: -82px;
     background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0));
+}
+.nav-link{
+    font-family: inter;
+    font-size: 18px;
+    color: white;
+}
+.hr{
+    width: 50%;
+    justify-items: center;
+    border: 2px solid #7920C2;
+    border-radius: 50px;
+    margin-top: -8px;
+    margin-left: auto;
+    margin-right: auto;
 }

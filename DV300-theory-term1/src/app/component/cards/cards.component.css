@@ -8,6 +8,11 @@ img {
     border-radius: 30px;
     background: linear-gradient(to bottom, #090011, #180C60, #180C60, #180C60);
     color: white;
+    border: none;
+}
+
+.card:hover {
+    background: linear-gradient(to bottom, #090011, #9747FF, #9747FF, #9747FF);
 }
 
 .hr-line {
